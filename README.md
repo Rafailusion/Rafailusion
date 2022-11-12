@@ -1,7 +1,7 @@
 - 👋 Oi, "meu nome é Rafael"
 - 👀 Tenho interessse em programação: "Pyton, C++, Html, Css, Javascript, Php." 
 - 🌱 Eu estou estudando "gestão da tecnologia da informação", aprendendo um pouco de cada assunto relacionado a esse mundo gigantesco tech.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Estou procurando colaborar em criacões de códigos para aprendizado e compartilhamento de conhecimento.
 - 📫 How to reach me ...
 
 <!---
