@@ -41,5 +41,8 @@ Estou sempre em busca de oportunidades para colaborar em projetos de código abe
 Quer entrar em contato? Fique à vontade para me enviar um e-mail:
 - **rafaelcesarprestes@gmail.com**
 - **rafailusion@hotmail.com**
+- [Linkedin](https://www.linkedin.com/in/rafaelcesarprestes/)
 
 Vamos trocar ideias sobre tecnologia e desenvolvimento!
+
+
