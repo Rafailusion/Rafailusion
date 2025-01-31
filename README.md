@@ -44,12 +44,12 @@ Estou sempre em busca de oportunidades para colaborar em projetos de código abe
 
 ---
 
-## Contato 📫
-
-Quer entrar em contato? Fique à vontade para me enviar um e-mail:
-- **rafaelcesarprestes@gmail.com**
-- **rafailusion@hotmail.com**
-- [Linkedin](https://www.linkedin.com/in/rafaelcesarprestes/)
+<div>
+<a href="https://www.youtube.com/@rafa_tech" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/raposo_tech" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@rafaelcesarprestes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafaelcesarprestes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 Vamos trocar ideias sobre tecnologia e desenvolvimento!
 
