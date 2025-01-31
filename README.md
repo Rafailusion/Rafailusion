@@ -21,12 +21,13 @@ Oi, meu nome é **Rafael** e sou apaixonado por tecnologia e desenvolvimento. At
 ## Interesses 👀
 
 Tenho interesse em:
-- **Python**
-- **IA**
-- **HTML/CSS**
-- **Javascript**
-- **Frameworks**
-- **Análise de dados**
+- <img loading="lazy" src="https://github.com/user-attachments/assets/c8abe22a-a9ef-4eba-8a9b-5c25ad9360de" width="40" height="40"/>
+- <img loading="lazy" src="https://github.com/user-attachments/assets/75bcb012-f04a-42a6-a2f3-05c22d223261" width="40" height="40"/>
+- <img loading="lazy" src="https://github.com/user-attachments/assets/746129ef-972a-41a4-807b-394b87567083" width="40" height="40"/>
+- <img loading="lazy" src="https://github.com/user-attachments/assets/af5c4486-4582-4987-a0b0-69a040c6cf35" width="40" height="40"/>
+- <img loading="lazy" src="https://github.com/user-attachments/assets/f95d2570-764d-4e08-a2ea-ac76c3dcd406" width="40" height="40"/>
+- <img loading="lazy" src="https://github.com/user-attachments/assets/ea3fe24b-19d0-477b-8969-c38ef1d6cc2c" width="40" height="40"/>
+
 
 Essas são algumas das principais tecnologias que estou explorando para criar soluções inovadoras e otimizadas.
 
@@ -55,4 +56,4 @@ Vamos trocar ideias sobre tecnologia e desenvolvimento!
 
 ---
 
-![Snake animation](https://github.com/Rafailusion/Rafailusion/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafailusion/rafailusion/blob/output/github-contribution-grid-snake.svg)
