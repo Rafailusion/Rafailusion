@@ -18,6 +18,10 @@ Oi, meu nome é **Rafael** e sou apaixonado por tecnologia e desenvolvimento. At
 
 ---
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## Interesses 👀
 
 Tenho interesse em:
@@ -52,5 +56,3 @@ Quer entrar em contato? Fique à vontade para me enviar um e-mail:
 - [Linkedin](https://www.linkedin.com/in/rafaelcesarprestes/)
 
 Vamos trocar ideias sobre tecnologia e desenvolvimento!
-
-
