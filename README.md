@@ -56,4 +56,6 @@ Vamos trocar ideias sobre tecnologia e desenvolvimento!
 
 ---
 
+<div>
 ![Snake animation](https://github.com/rafailusion/rafailusion/blob/output/github-contribution-grid-snake.svg)
+</div>
