@@ -29,11 +29,6 @@ Oi, meu nome é **Rafael** e sou apaixonado por tecnologia e desenvolvimento. At
   <img loading="lazy" src="https://github.com/user-attachments/assets/ea3fe24b-19d0-477b-8969-c38ef1d6cc2c" width="40" height="40" class="nao-clicavel"/>
 </div>
 
-.nao-clicavel {
-  pointer-events: none; /* Desabilita as interações com a imagem */
-  filter: grayscale(100%); /* Opcional: aplica um efeito visual para indicar que não é clicável */
-}
-
 Essas são algumas das principais tecnologias que estou explorando para criar soluções inovadoras e otimizadas.
 
 ---
