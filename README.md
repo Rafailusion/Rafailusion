@@ -21,13 +21,14 @@ Oi, meu nome é **Rafael** e sou apaixonado por tecnologia e desenvolvimento. At
 ## Interesses 👀
 
 <div>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/c8abe22a-a9ef-4eba-8a9b-5c25ad9360de" width="40" height="40" class="nao-clicavel"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/75bcb012-f04a-42a6-a2f3-05c22d223261" width="40" height="40" class="nao-clicavel"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/746129ef-972a-41a4-807b-394b87567083" width="40" height="40" class="nao-clicavel"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/af5c4486-4582-4987-a0b0-69a040c6cf35" width="40" height="40" class="nao-clicavel"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/f95d2570-764d-4e08-a2ea-ac76c3dcd406" width="40" height="40" class="nao-clicavel"/>
-  <img loading="lazy" src="https://github.com/user-attachments/assets/ea3fe24b-19d0-477b-8969-c38ef1d6cc2c" width="40" height="40" class="nao-clicavel"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/c8abe22a-a9ef-4eba-8a9b-5c25ad9360de" width="40" height="40" style="pointer-events: none;"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/75bcb012-f04a-42a6-a2f3-05c22d223261" width="40" height="40" style="pointer-events: none;"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/746129ef-972a-41a4-807b-394b87567083" width="40" height="40" style="pointer-events: none;"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/af5c4486-4582-4987-a0b0-69a040c6cf35" width="40" height="40" style="pointer-events: none;"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/f95d2570-764d-4e08-a2ea-ac76c3dcd406" width="40" height="40" style="pointer-events: none;"/>
+  <img loading="lazy" src="https://github.com/user-attachments/assets/ea3fe24b-19d0-477b-8969-c38ef1d6cc2c" width="40" height="40" style="pointer-events: none;"/>
 </div>
+
 
 Essas são algumas das principais tecnologias que estou explorando para criar soluções inovadoras e otimizadas.
 
