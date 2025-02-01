@@ -1,0 +1,5 @@
+.nao-clicavel {
+    pointer-events: none; /* Desabilita as interações com a imagem */
+    filter: grayscale(100%); /* Opcional: aplica um efeito visual para indicar que não é clicável */
+  }
+  
