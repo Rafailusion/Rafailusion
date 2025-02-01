@@ -29,7 +29,6 @@ Oi, meu nome é **Rafael** e sou apaixonado por tecnologia e desenvolvimento. At
   <img loading="lazy" src="https://github.com/user-attachments/assets/ea3fe24b-19d0-477b-8969-c38ef1d6cc2c" width="40" height="40" style="pointer-events: none;"/>
 </div>
 
-
 Essas são algumas das principais tecnologias que estou explorando para criar soluções inovadoras e otimizadas.
 
 ---
